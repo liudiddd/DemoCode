@@ -1,5 +1,11 @@
-#£¡include stdio.h
+#Â£Â¡include stdio.h
 
 main(){
-	printf("hello");	
+<<<<<<< HEAD
+	printf("hello modified");	
 }
+=======
+	printf("hello");
+	printf("modified from another client");
+}
+>>>>>>> 801bd68376ae90cdd5e7410ab76f6be8ca6902a6
