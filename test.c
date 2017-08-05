@@ -1,5 +1,6 @@
-#£¡include stdio.h
+#Â£Â¡include stdio.h
 
 main(){
-	printf("hello");	
+	printf("hello");
+	printf("modified from another client");
 }
